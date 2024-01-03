@@ -1,5 +1,6 @@
 # final-projesi
 BomBom isimli oyunda, 10 - 10 büyüklüğünde belli bir oyun haritası üzerinde kullanıcı tarafından 0 - 9 arasında girilecek koordinatlar ile oyun devam eder. Girilen koordinatta bulunan sayının etrafındaki (sağ, sol, yukarı, aşağı ve çaprazlar olmak üzere) sayılar kontrol edilir asıl koordinattaki sayıya eş bir sayı varsa, "X"e çevrilir. Böylece bütün haritanın temizlenmesi amaçlanır. Programın bütün özellikleri aşağıdaki gibidir:
+
 1- Txt dosyasından çekilen harita ekrana basılır ve kullanıcıdan bir koordinat girmesi istenir.
 2- Oyuncu bir koordinat seçer; örneğin 4 5 gibi. 4 satır, 5 ise sütun numarasını temsil eder.
 3- Seçilen koordinatın öncelikle yukarı bölgesinden başlamak üzere 4 bölgesi sırayla kontrol edilir.
